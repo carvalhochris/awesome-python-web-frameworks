@@ -67,6 +67,7 @@
 - [Flask-Restx](https://github.com/python-restx/flask-restx) ★2169 - Fully featured framework for fast, easy and documented API development with Flask.
 - [Flask Smorest](https://github.com/marshmallow-code/flask-smorest) ★673 - a REST API framework built upon Flask and marshmallow.
 - [Djapy](https://github.com/Bishwas-py/djapy) ★67 - Django coupled with Pydantic, RestAPI framework
+- [Django Ninja](https://github.com/vitalik/django-ninja) ★7581 - a web framework for building APIs with Django and Python 3.6+ type hints.
 
 ### Dead REST frameworks
 
